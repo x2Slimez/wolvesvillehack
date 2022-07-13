@@ -109,8 +109,8 @@ window.addEventListener('load', function () {
                         <a href="https://discord.io/HazzardHub" target="_blank"><img
                                 src="https://img.icons8.com/color/1x/discord--v2.png" alt=""></a>
     
-                        <a href="https://www.facebook.com/x2Switchz" target="_blank"><img
-                                src="https://img.icons8.com/fluency/1x/facebook.png" alt=""></a>
+                        <a href="https://github.com/x2Slimez/wolvesvillehack" target="_blank"><img
+                                src="https://img.icons8.com/fluency/1x/github.png" alt=""></a>
     
                         <a href="https://tmn.app.link/KqkIdoVmDrb" target="_blank"><img
                                 src="https://img.icons8.com/fluency/1x/money.png" alt=""></a>
