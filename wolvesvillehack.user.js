@@ -5,11 +5,11 @@
 // @match        *://*.wolvesville.com/*
 // @match        *://googleads.g.doubleclick.net/pagead/*
 // @description  Group of scripts that make wolvesville easier
-// @namespace    https://github.com/redscorpionx/wolvesvillehelper
-// @homepageURL  https://github.com/redscorpionx/wolvesvillehelper
+// @namespace    https://github.com/x2Slimez/wolvesvillehack
+// @homepageURL  https://github.com/x2Slimez/wolvesvillehack
 // @icon         https://img.icons8.com/external-icongeek26-outline-icongeek26/100/000000/external-wolf-animal-faces-icongeek26-outline-icongeek26.png
-// @updateURL    https://gist.github.com/redscorpionx/62b74ab0b9cac6782570e318ff829ec5/raw/wolvesvillehelper.user.js
-// @downloadURL  https://gist.github.com/redscorpionx/62b74ab0b9cac6782570e318ff829ec5/raw/wolvesvillehelper.user.js
+// @updateURL    https://gist.github.com/x2Slimez/3b97e2acf5546c3d2155ade3e61cfe16/raw/wolvesvillehack.user.js
+// @downloadURL  https://gist.github.com/x2Slimez/3b97e2acf5546c3d2155ade3e61cfe16/raw/wolvesvillehack.user.js
 // @license      GPL-3.0-or-later
 // @version      1.0.0
 // @grant        none
